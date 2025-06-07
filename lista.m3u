@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Keryfia/kerywowo/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium850/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -58,16 +58,16 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/374675593/index.m3
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -187,10 +187,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -343,10 +343,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium576/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (D)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium461/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -430,16 +430,16 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1572866962/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/86091226/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
-
-#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
+#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -478,10 +478,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium866/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (D)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium865/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -496,10 +496,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium864/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -523,10 +523,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2221901869/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -547,10 +547,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1284441949/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -559,10 +559,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -571,10 +571,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3939513684/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3939513684/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -583,10 +583,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -631,10 +631,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2418148449/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2802329064/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2265727942/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3938501125/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3938501125/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2265727942/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -652,13 +652,13 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -667,10 +667,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1995860185/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/11090349/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2255724318/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2255724318/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/11090349/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/380958472/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -700,10 +700,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1955739367/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -718,16 +718,16 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1735702308/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/179844839/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3229664409/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
-
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3428501495/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3229664409/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/464281981/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -748,10 +748,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2542531195/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1585005860/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/963607327/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3802167244/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3802167244/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/963607327/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO INDIE MUSIC CHART TV" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3569731325/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -967,10 +967,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2982550433/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3439223610/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro",FRANCE 24
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -991,10 +991,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2854396316/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/942153014/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1174,10 +1174,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/1791879692/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2343767125/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1303,10 +1303,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2814318198/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4020241962/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="TRENTINO TV" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2764553737/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2797857045/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="TRENTINO TV" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2797857045/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2764553737/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="trm.h24.it" tvg-name="TRM H24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/trm-h24-it.png?raw=true" group-title="Altro",TRM H24
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2310699492/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1327,10 +1327,10 @@ http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/4038365720/index.m
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2706291008/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro",TV QUI
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2202937518/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3845119578/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro",TV QUI (2)
-http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/3845119578/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2202937518/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="TV YES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tv-yes-it.png?raw=true" group-title="Altro",TV YES
 http://192.168.0.241:8888/proxy/m3u?url=https://vavoo.to/play/2569530225/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1393,107 +1393,659 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="TV Shows" group-title="Eventi Live",--- TV Shows ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="generalhospitalseason62episode188" tvg-name="General Hospital Season 62, Episode 188 (21:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0253/8910/5237/products/GH-HL-5x5-die-cut-sticker_400x.png?v=1604005143" group-title="Eventi Live",General Hospital Season 62, Episode 188 (21:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium766/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="rvthereyetseason4episode8" tvg-name="RV There Yet? Season 4, Episode 8 (14:30)" tvg-logo="https://www.teepop.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/v/rv-there-yet-tshirt-base.png" group-title="Eventi Live",RV There Yet? Season 4, Episode 8 (14:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium313/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="ufclivedvalishvilivsomalley2" tvg-name="UFC Live : Dvalishvili vs. O'Malley 2 (22:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Dvalishvili_vs_O'Malley 2.png" group-title="Eventi Live",UFC Live : Dvalishvili vs. O'Malley 2 (22:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium288/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="thedeathcoastseason1episode6" tvg-name="The Death Coast Season 1, Episode 6 (17:00)" tvg-logo="https://forte-entertainment.com/wp-content/uploads/2025/03/TheDeathCoast_Logo_Vertical_ReverseColour_RGB_FINAL-300x261.png" group-title="Eventi Live",The Death Coast Season 1, Episode 6 (17:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium322/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="flipsidenew" tvg-name="Flip Side New (23:00)" tvg-logo="https://press.gsntv.com/assets/i/uploads/misc/48468/FLIP_SIDE_LOGO_HERO_01_1228f18cd37b7aa8b4992028e894e3df.png" group-title="Eventi Live",Flip Side New (23:00)
+#EXTINF:-1 tvg-id="caribbeanlifeseason6episode6" tvg-name="Caribbean Life Season 6, Episode 6 (17:00)" tvg-logo="http://www.cherriegarden.tv/wp-content/uploads/2018/04/CaribbeanLifeTv.png" group-title="Eventi Live",Caribbean Life Season 6, Episode 6 (17:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium331/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="milliondollarzombieflipsseason1episode8" tvg-name="Million Dollar Zombie Flips Season 1, Episode 8 (17:00)" tvg-logo="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/4/2025/02/million-dollar-zombie-flips-logo.png" group-title="Eventi Live",Million Dollar Zombie Flips Season 1, Episode 8 (17:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium302/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="beerbudgetrenoseason1episode8" tvg-name="Beer Budget Reno Season 1, Episode 8 (18:00)" tvg-logo="https://www.tvinsider.com/wp-content/themes/tv/images/cal4.png" group-title="Eventi Live",Beer Budget Reno Season 1, Episode 8 (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium302/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="2025rolandgarrostennisgentlemendoublesfinal" tvg-name="2025 Roland-Garros Tennis Gentlemen Doubles - Final (18:00)" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Eventi Live",2025 Roland-Garros Tennis Gentlemen Doubles - Final (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium338/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="2025rolandgarrostennisgentlemendoublesfinal" tvg-name="2025 Roland-Garros Tennis Gentlemen Doubles - Final (18:00)" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Eventi Live",2025 Roland-Garros Tennis Gentlemen Doubles - Final (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium341/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="116thstreetfestivallive" tvg-name="116th Street Festival Live (20:00)" tvg-logo="https://wallpapers.com/images/hd/116th-street-festival2019-logo-9i66lg59bbhm3o2i-2.png" group-title="Eventi Live",116th Street Festival Live (20:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium280/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="househuntersinternationalseason135episode18" tvg-name="House Hunters International Season 135, Episode 18 (21:00)" tvg-logo="https://u.realgeeks.media/househuntersrealestate/HH_Logo-removebg-preview.png" group-title="Eventi Live",House Hunters International Season 135, Episode 18 (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium331/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="couplestherapyseason4episode15" tvg-name="Couples Therapy Season 4, Episode 15 (21:00)" tvg-logo="https://static.tildacdn.net/tild3434-6237-4963-b434-623965306563/2023-09-21-010700.png" group-title="Eventi Live",Couples Therapy Season 4, Episode 15 (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium792/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="157thbelmontstakesracecourselive" tvg-name="157th Belmont Stakes Race Course Live (00:30)" tvg-logo="https://pastthewire-com.b-cdn.net/wp-content/uploads/2023/05/Belmont-2023-logo.png" group-title="Eventi Live",157th Belmont Stakes Race Course Live (00:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium768/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="157thbelmontstakesracecourselive" tvg-name="157th Belmont Stakes Race Course Live (00:30)" tvg-logo="https://pastthewire-com.b-cdn.net/wp-content/uploads/2023/05/Belmont-2023-logo.png" group-title="Eventi Live",157th Belmont Stakes Race Course Live (00:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium54/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="157thbelmontstakesracecourselive" tvg-name="157th Belmont Stakes Race Course Live (00:30)" tvg-logo="https://s3.amazonaws.com/cdn.fanduel.com/images/2023/belmont-stakes/belmont-stakes-50-logo.png" group-title="Eventi Live",157th Belmont Stakes Race Course Live (00:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="tunneltotowersconcert2025new" tvg-name="Tunnel to Towers Concert 2025 New (01:00)" tvg-logo="https://dta0yqvfnusiq.cloudfront.net/shelb23698642/2021/03/Image-1-603fff1ab6bfd.png" group-title="Eventi Live",Tunnel to Towers Concert 2025 New (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium654/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="datelineseason1episode20" tvg-name="Dateline Season 1, Episode 20 (01:00)" tvg-logo="https://cdn.shopify.com/s/files/1/1789/0769/products/DynamicImageHandler_63a9db80-8336-4307-9adb-76067fe002b6.png" group-title="Eventi Live",Dateline Season 1, Episode 20 (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium131/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="athletesunlimitedsoftballleaguelive" tvg-name="Athletes Unlimited Softball League Live (01:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/67326c86ca16f831bd874963/9b6a9e66-fa48-4ee2-a908-87412637d721/tickets-red.png?format=300w" group-title="Eventi Live",Athletes Unlimited Softball League Live (01:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium399/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="familyorfiancseason4episode7" tvg-name="Family or Fiancé Season 4, Episode 7 (02:00)" tvg-logo="https://nxscdn.com/r/img/rating/rating_on.png" group-title="Eventi Live",Family or Fiancé Season 4, Episode 7 (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium331/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="onpatrolfirstshiftseason3episode86" tvg-name="On Patrol: First Shift Season 3, Episode 86 (02:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_of_the_United_States_Border_Patrol.svg/1200px-Logo_of_the_United_States_Border_Patrol.svg.png" group-title="Eventi Live",On Patrol: First Shift Season 3, Episode 86 (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium293/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="vacationhouserulesseason6episode4" tvg-name="Vacation House Rules Season 6, Episode 4 (02:00)" tvg-logo="https://www.meminc.ca/wp-content/uploads/shows-scottsvacationhouserules.png" group-title="Eventi Live",Vacation House Rules Season 6, Episode 4 (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium382/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="dealornodealnew" tvg-name="Deal or No Deal New (03:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fecb5533-3444-4dde-8073-cef0825d6cab/dftrbqz-d33bf03b-c110-4ac9-b974-f5fc8a477480.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlY2I1NTMzLTM0NDQtNGRkZS04MDczLWNlZjA4MjVkNmNhYlwvZGZ0cmJxei1kMzNiZjAzYi1jMTEwLTRhYzktYjk3NC1mNWZjOGE0Nzc0ODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cGoRiLKrLbjwCG2vxY0P-b_DO12FDNJyTqrlrluyb8E" group-title="Eventi Live",Deal or No Deal New (03:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium319/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="horseracingbelmontstakesfestivalfridaylive" tvg-name="Horse Racing Belmont Stakes Festival Friday Live (23:00)" tvg-logo="https://betzillion.com/wp-content/uploads/2021/06/belmont-stakes-logo.png" group-title="Eventi Live",Horse Racing Belmont Stakes Festival Friday Live (23:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium654/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="storagewarsseason16episode1premiere" tvg-name="Storage Wars Season 16, Episode 1 • Premiere (03:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/da98aa91-c703-4436-9ac9-b096ca686ff8/dj485vb-193334dd-677b-4b75-a921-ec2ebab7acdc.png/v1/fill/w_512,h_512/storage_wars__2010____season_7_by_corky608_dj485vb-fullview.png" group-title="Eventi Live",Storage Wars Season 16, Episode 1 • Premiere (03:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium302/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="andrewzimmernswildgamekitchenseason5episode1" tvg-name="Andrew Zimmern's Wild Game Kitchen Season 5, Episode 1 (03:00)" tvg-logo="https://thegamekitchen.com/wp-content/uploads/2023/11/T_AllOnBoard_1x1.png" group-title="Eventi Live",Andrew Zimmern's Wild Game Kitchen Season 5, Episode 1 (03:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium665/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="somebodyssonseason1episode8" tvg-name="#Somebody's Son Season 1, Episode 8 (03:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221008/original/pngtree-number-8-logo-png-image_8666010.png" group-title="Eventi Live",#Somebody's Son Season 1, Episode 8 (03:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium331/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="bkb41brawlinduvallii" tvg-name="BKB 41: Brawl in Duvall II (03:00)" tvg-logo="https://seeklogo.com/images/B/bangladesh-krishi-bank-logo-ECC116B4D7-seeklogo.com.png" group-title="Eventi Live",BKB 41: Brawl in Duvall II (03:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium279/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="90dayfiancseason11" tvg-name="90 Day Fiancé Season 11 (04:00)" tvg-logo="https://www.dish.com/content/dam/dish/logos/social-media-logos/x.png" group-title="Eventi Live",90 Day Fiancé Season 11 (04:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium337/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="realtimewithbillmaherseason23episode18" tvg-name="Real Time With Bill Maher Season 23, Episode 18 (04:00)" tvg-logo="https://www.rp-tr.com/wp-content/uploads/2021/09/RT_Header.png" group-title="Eventi Live",Real Time With Bill Maher Season 23, Episode 18 (04:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium345/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="casadosconhijosmxicoseason1episode10" tvg-name="Casados con hijos México Season 1, Episode 10 (04:30)" tvg-logo="http://static.sticker.ly/sticker_pack/GrNq4dca4KXD9onTXP1ZMg/NICXOP/31/911aaa18-ba1e-40da-b853-1f31cfcb1cc6.png" group-title="Eventi Live",Casados con hijos México Season 1, Episode 10 (04:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium132/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="friendlyinternationalspainu21vsukraineu21" tvg-name="Friendly International : Spain U21 vs Ukraine U21 (20:30)" tvg-logo="https://www.futbol24.com/upload/team/UEFA/Spain-U21.png" group-title="Eventi Live",Friendly International : Spain U21 vs Ukraine U21 (20:30)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium536/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="worldcupqualifyingbosniaandherzegovinavssanmarino" tvg-name="World Cup Qualifying : Bosnia and Herzegovina vs San Marino (15:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Bosnia and Herzegovina_vs_San Marino.png" group-title="Eventi Live",World Cup Qualifying : Bosnia and Herzegovina vs San Marino (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium758/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="worldcupqualifyingnorthmacedoniavsbelgium" tvg-name="World Cup Qualifying : North Macedonia vs Belgium (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/North Macedonia_vs_Belgium.png" group-title="Eventi Live",World Cup Qualifying : North Macedonia vs Belgium (20:45)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium7/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="worldcupqualifyingbosniaandherzegovinavssanmarino" tvg-name="World Cup Qualifying : Bosnia and Herzegovina vs San Marino (15:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Bosnia and Herzegovina_vs_San Marino.png" group-title="Eventi Live",World Cup Qualifying : Bosnia and Herzegovina vs San Marino (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium870/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="worldcupqualifyingnorthmacedoniavsbelgium" tvg-name="World Cup Qualifying : North Macedonia vs Belgium (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/North Macedonia_vs_Belgium.png" group-title="Eventi Live",World Cup Qualifying : North Macedonia vs Belgium (20:45)
+#EXTINF:-1 tvg-id="friendlylatviavsazerbaijan" tvg-name="Friendly : Latvia vs Azerbaijan (15:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Latvia_vs_Azerbaijan.png" group-title="Eventi Live",Friendly : Latvia vs Azerbaijan (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium3/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="uruguayprimeradivisionliverpoolvscerrolargo" tvg-name="Uruguay - Primera Division : Liverpool vs Cerro Largo (16:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Liverpool_vs_Cerro Largo.png" group-title="Eventi Live",Uruguay - Primera Division : Liverpool vs Cerro Largo (16:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium597/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldcupqualifyingmaltavslithuania" tvg-name="World Cup Qualifying : Malta vs Lithuania (18:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Malta_vs_Lithuania.png" group-title="Eventi Live",World Cup Qualifying : Malta vs Lithuania (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium870/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldcupqualifyingandorravsengland" tvg-name="World Cup Qualifying : Andorra vs England (18:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Andorra_vs_England.png" group-title="Eventi Live",World Cup Qualifying : Andorra vs England (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium350/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldcupqualifyingandorravsengland" tvg-name="World Cup Qualifying : Andorra vs England (18:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Andorra_vs_England.png" group-title="Eventi Live",World Cup Qualifying : Andorra vs England (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium758/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldcupqualifyingandorravsengland" tvg-name="World Cup Qualifying : Andorra vs England (18:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Andorra_vs_England.png" group-title="Eventi Live",World Cup Qualifying : Andorra vs England (18:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium461/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="worldcupqualifyingnorwayvsitaly" tvg-name="World Cup Qualifying : Norway vs Italy (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Norway_vs_Italy.png" group-title="Eventi Live",World Cup Qualifying : Norway vs Italy (20:45)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium850/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="spaincopadelareinabarcelonavsatleticomadrid" tvg-name="Spain - Copa de la Reina : Barcelona vs Atletico Madrid (19:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Barcelona_vs_Atletico Madrid.png" group-title="Eventi Live",Spain - Copa de la Reina : Barcelona vs Atletico Madrid (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium536/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="worldcupqualifyingwalesvsliechtenstein" tvg-name="World Cup Qualifying : Wales vs Liechtenstein (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Wales_vs_Liechtenstein.png" group-title="Eventi Live",World Cup Qualifying : Wales vs Liechtenstein (20:45)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium670/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="nwslnjnygothamfcvskansascitycurrent" tvg-name="NWSL : NJ/NY Gotham FC vs Kansas City Current (19:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/NJ/NY Gotham FC_vs_Kansas City Current.png" group-title="Eventi Live",NWSL : NJ/NY Gotham FC vs Kansas City Current (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium52/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="worldcupqualifyingwalesvsliechtenstein" tvg-name="World Cup Qualifying : Wales vs Liechtenstein (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Wales_vs_Liechtenstein.png" group-title="Eventi Live",World Cup Qualifying : Wales vs Liechtenstein (20:45)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium358/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="nwslnjnygothamfcvskansascitycurrent" tvg-name="NWSL : NJ/NY Gotham FC vs Kansas City Current (19:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/NJ/NY Gotham FC_vs_Kansas City Current.png" group-title="Eventi Live",NWSL : NJ/NY Gotham FC vs Kansas City Current (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium767/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="thesoccertournamentmensbracketknockoutroundof32teamstba" tvg-name="The Soccer Tournament Men's Bracket, Knockout Round of 32: Teams TBA (22:30)" tvg-logo="https://storage.googleapis.com/gsesw/72/572/templates/6062e12d6d475.png" group-title="Eventi Live",The Soccer Tournament Men's Bracket, Knockout Round of 32: Teams TBA (22:30)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium316/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="uruguayprimeradivisiondanubiovstorque" tvg-name="Uruguay - Primera Division : Danubio vs Torque (20:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Danubio_vs_Torque.png" group-title="Eventi Live",Uruguay - Primera Division : Danubio vs Torque (20:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium597/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="thesoccertournamentmensbracketknockoutroundof32teamstba" tvg-name="The Soccer Tournament Men's Bracket, Knockout Round of 32: Teams TBA (23:30)" tvg-logo="https://storage.googleapis.com/gsesw/72/572/templates/6062e12d6d475.png" group-title="Eventi Live",The Soccer Tournament Men's Bracket, Knockout Round of 32: Teams TBA (23:30)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium316/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="worldcupqualifyingaustriavsromania" tvg-name="World Cup Qualifying : Austria vs Romania (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Austria_vs_Romania.png" group-title="Eventi Live",World Cup Qualifying : Austria vs Romania (20:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium758/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldcupqualifyingalbaniavsserbia" tvg-name="World Cup Qualifying : Albania vs Serbia (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Albania_vs_Serbia.png" group-title="Eventi Live",World Cup Qualifying : Albania vs Serbia (20:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium7/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldcupqualifyingfinlandvsnetherlands" tvg-name="World Cup Qualifying : Finland vs Netherlands (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Finland_vs_Netherlands.png" group-title="Eventi Live",World Cup Qualifying : Finland vs Netherlands (20:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium3/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="spainsegundadivisionalmeravsrealoviedo" tvg-name="Spain - Segunda Division : Almería vs Real Oviedo (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Almería_vs_Real Oviedo.png" group-title="Eventi Live",Spain - Segunda Division : Almería vs Real Oviedo (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium276/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium851/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium14/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium461/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium870/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="friendlyusavsturkey" tvg-name="Friendly : USA vs Turkey (21:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/USA_vs_Turkey.png" group-title="Eventi Live",Friendly : USA vs Turkey (21:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium845/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="friendlyusavsturkey" tvg-name="Friendly : USA vs Turkey (21:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/USA_vs_Turkey.png" group-title="Eventi Live",Friendly : USA vs Turkey (21:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium338/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="friendlyusavsturkey" tvg-name="Friendly : USA vs Turkey (21:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/USA_vs_Turkey.png" group-title="Eventi Live",Friendly : USA vs Turkey (21:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium341/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="friendlymexicovsswitzerland" tvg-name="Friendly : Mexico vs Switzerland (22:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Mexico_vs_Switzerland.png" group-title="Eventi Live",Friendly : Mexico vs Switzerland (22:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium66/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="friendlymexicovsswitzerland" tvg-name="Friendly : Mexico vs Switzerland (22:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Mexico_vs_Switzerland.png" group-title="Eventi Live",Friendly : Mexico vs Switzerland (22:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium15/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="uruguayprimeradivisionwanderersvsplazacolonia" tvg-name="Uruguay - Primera Division : Wanderers vs Plaza Colonia (22:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Wanderers_vs_Plaza Colonia.png" group-title="Eventi Live",Uruguay - Primera Division : Wanderers vs Plaza Colonia (22:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium597/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="canadianpremierleaguepacificvsatlticoottawa" tvg-name="Canadian Premier League : Pacific vs Atlético Ottawa (00:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Pacific_vs_Atlético Ottawa.png" group-title="Eventi Live",Canadian Premier League : Pacific vs Atlético Ottawa (00:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium758/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nwslorlandopridevshoustondash" tvg-name="NWSL : Orlando Pride vs Houston Dash (01:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Orlando Pride_vs_Houston Dash.png" group-title="Eventi Live",NWSL : Orlando Pride vs Houston Dash (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="uslchampionshiprhodeislandvsmiamifc" tvg-name="USL Championship : Rhode Island vs Miami FC (01:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Rhode Island_vs_Miami FC.png" group-title="Eventi Live",USL Championship : Rhode Island vs Miami FC (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium762/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="uslleagueonewestchesterscvsoneknoxville" tvg-name="USL League One : Westchester SC vs One Knoxville (01:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Westchester SC_vs_One Knoxville.png" group-title="Eventi Live",USL League One : Westchester SC vs One Knoxville (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium765/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="uruguayprimeradivisionpearolvsdefensorsporting" tvg-name="Uruguay - Primera Division : Peñarol vs Defensor Sporting (01:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Peñarol_vs_Defensor Sporting.png" group-title="Eventi Live",Uruguay - Primera Division : Peñarol vs Defensor Sporting (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium597/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nwslbayfcvsportlandthornsfc" tvg-name="NWSL : Bay FC vs Portland Thorns FC (01:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Bay FC_vs_Portland Thorns FC.png" group-title="Eventi Live",NWSL : Bay FC vs Portland Thorns FC (01:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium325/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nwslangelcityvschicagoredstars" tvg-name="NWSL : Angel City vs Chicago Red Stars (04:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Angel City_vs_Chicago Red Stars.png" group-title="Eventi Live",NWSL : Angel City vs Chicago Red Stars (04:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium325/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="clubfriendlysandiegovsamrica" tvg-name="Club Friendly : San Diego vs América (04:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/San Diego_vs_América.png" group-title="Eventi Live",Club Friendly : San Diego vs América (04:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium66/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Cricket" group-title="Eventi Live",--- Cricket ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="natwestt20blastnottinghamshirevsworcestershire" tvg-name="NatWest T20 Blast : Nottinghamshire vs Worcestershire (20:00)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_Nottinghamshire_County_Council.png" group-title="Eventi Live",NatWest T20 Blast : Nottinghamshire vs Worcestershire (20:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium449/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium338/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium341/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium212/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium213/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium214/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarroswomensinglesfinal" tvg-name="Roland-Garros Women | Singles | Final (15:00)" tvg-logo="https://streamcoimg-a.akamaihd.net/cms/2022/5/8137229b-74f6-4156-797b-5ca822535240.png" group-title="Eventi Live",Roland-Garros Women | Singles | Final (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://files.trackie.com/uploads/event/2024-04-16-01-08-33-98885979-639743.png" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium338/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium341/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://files.trackie.com/uploads/event/2024-04-16-01-08-33-98885979-639743.png" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium212/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium213/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://files.trackie.com/uploads/event/2024-04-16-01-08-33-98885979-639743.png" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium214/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="rolandgarrosmendoublesfinal" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://files.trackie.com/uploads/event/2024-04-16-01-08-33-98885979-639743.png" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="arcamenardsserieshenryfordhealth200" tvg-name="ARCA Menards Series Henry Ford Health 200 (23:00)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2022/06/14/22-MIS-Henry-Ford-Health-200_4C.png" group-title="Eventi Live",ARCA Menards Series Henry Ford Health 200 (23:00)
+#EXTINF:-1 tvg-id="supercarschampionshipperthsuper440race14" tvg-name="Supercars Championship, Perth Super 440, Race 14 (07:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/z0c7in1618738861.png" group-title="Eventi Live",Supercars Championship, Perth Super 440, Race 14 (07:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice2" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)" tvg-logo="https://png.pngtree.com/png-clipart/20230513/original/pngtree-motorbike-line-art-logo-design-png-image_9160404.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice2" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)" tvg-logo="https://png.pngtree.com/png-clipart/20230513/original/pngtree-motorbike-line-art-logo-design-png-image_9160404.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage7day3" tvg-name="WRC Rally Italy | Special Stage 7 | Day 3 (09:05)" tvg-logo="https://pegatinea.com/wp-content/uploads/1PR48-compressor.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 7 | Day 3 (09:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage7day3" tvg-name="WRC Rally Italy | Special Stage 7 | Day 3 (09:05)" tvg-logo="https://pegatinea.com/wp-content/uploads/PR249-compressor-500x500.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 7 | Day 3 (09:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainqualifying" tvg-name="MotoGP : Greek Grand Prix of Spain Qualifying (10:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Qualifying (10:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainqualifying" tvg-name="MotoGP : Greek Grand Prix of Spain Qualifying (10:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Qualifying (10:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="supercarschampionshipperthsuper440race15" tvg-name="Supercars Championship, Perth Super 440, Race 15 (10:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/z0c7in1618738861.png/medium" group-title="Eventi Live",Supercars Championship, Perth Super 440, Race 15 (10:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium213/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage8day3" tvg-name="WRC Rally Italy | Special Stage 8 | Day 3 (10:15)" tvg-logo="https://pegatinea.com/wp-content/uploads/1PR48-compressor.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 8 | Day 3 (10:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage8day3" tvg-name="WRC Rally Italy | Special Stage 8 | Day 3 (10:15)" tvg-logo="https://pegatinea.com/wp-content/uploads/1PR48-compressor.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 8 | Day 3 (10:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainfreepractice2" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainfreepractice2" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage9day3" tvg-name="WRC Rally Italy | Special Stage 9 | Day 3 (11:30)" tvg-logo="https://pegatinea.com/wp-content/uploads/PR249-compressor-500x500.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 9 | Day 3 (11:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage9day3" tvg-name="WRC Rally Italy | Special Stage 9 | Day 3 (11:30)" tvg-logo="https://pegatinea.com/wp-content/uploads/PR249-compressor-500x500.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 9 | Day 3 (11:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainqualifying" tvg-name="Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)" tvg-logo="https://www.stickers-garage.com/resize/800x800/zc/2/f/0/src/sites/stickers/files/products/65a3c6d553cd2e426c9165d98d15e289.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainqualifying" tvg-name="Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)" tvg-logo="https://www.stickers-garage.com/resize/800x800/zc/2/f/0/src/sites/stickers/files/products/65a3c6d553cd2e426c9165d98d15e289.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldchampionship8hoursofspafrancorchampsrace" tvg-name="World Championship 8 Hours of Spa-Francorchamps | Race (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",World Championship 8 Hours of Spa-Francorchamps | Race (13:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldchampionship8hoursofspafrancorchampsrace" tvg-name="World Championship 8 Hours of Spa-Francorchamps | Race (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",World Championship 8 Hours of Spa-Francorchamps | Race (13:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainqualifying" tvg-name="Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainqualifying" tvg-name="Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)" tvg-logo="https://www.mpadeco.com/resize/500x500/zc/2/f/0/src/sites/mpadeco/files/products/e36f66b3080cf34071af3136a3e8e52d.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="ferrarichallengeeuropecoppashellbrnocircuitintheczechia" tvg-name="Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (13:50)" tvg-logo="https://emsraceteam.com/wp-content/uploads/2020/09/coppa_shell_championship_logo.png" group-title="Eventi Live",Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (13:50)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium60/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesdqssolutionsstaffing200qualifying" tvg-name="NASCAR Craftsman Truck Series DQS Solutions & Staffing 200, Qualifying (14:00)" tvg-logo="https://www.mispeedway.com/wp-content/uploads/sites/1037/2024/08/31/24_MIS_DQS-Solutioins-200_4C-151x180.png" group-title="Eventi Live",NASCAR Craftsman Truck Series DQS Solutions & Staffing 200, Qualifying (14:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainsprintrace" tvg-name="MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainsprintrace" tvg-name="MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainsprintrace" tvg-name="MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="ferrarichallengeeuropecoppashellbrnocircuitintheczechia" tvg-name="Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (15:00)" tvg-logo="https://emsraceteam.com/wp-content/uploads/2020/09/coppa_shell_championship_logo.png" group-title="Eventi Live",Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium60/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage9day10" tvg-name="WRC Rally Italy | Special Stage 9 | Day 10 (15:00)" tvg-logo="https://pegatinea.com/wp-content/uploads/PR249-compressor-500x500.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 9 | Day 10 (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage9day10" tvg-name="WRC Rally Italy | Special Stage 9 | Day 10 (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/29/2/wrc-logo-png_seeklogo-298136.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 9 | Day 10 (15:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="worldchampionship8hoursofsparace" tvg-name="World Championship 8 Hours of Spa | Race (17:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230816/original/pngtree-minimalist-race-flag-icon-and-logo-design-black-race-logo-vector-picture-image_10864759.png" group-title="Eventi Live",World Championship 8 Hours of Spa | Race (17:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage12day3" tvg-name="WRC Rally Italy | Special Stage 12 | Day 3 (17:30)" tvg-logo="https://pegatinea.com/wp-content/uploads/PR249-compressor-500x500.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 12 | Day 3 (17:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium211/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wrcrallyitalyspecialstage12day3" tvg-name="WRC Rally Italy | Special Stage 12 | Day 3 (17:30)" tvg-logo="https://pegatinea.com/wp-content/uploads/PR249-compressor-500x500.png" group-title="Eventi Live",WRC Rally Italy | Special Stage 12 | Day 3 (17:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nascartruckcarrerahenryfordhealthsystem200" tvg-name="Nascar Truck Carrera | Henry Ford Health System 200 (18:00)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2024/03/26/22-MIS-Henry-Ford-Health-200_4C-4.png" group-title="Eventi Live",Nascar Truck Carrera | Henry Ford Health System 200 (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium54/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nascartruckcarrerahenryfordhealthsystem200" tvg-name="Nascar Truck Carrera | Henry Ford Health System 200 (18:00)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2024/03/26/22-MIS-Henry-Ford-Health-200_4C-4.png" group-title="Eventi Live",Nascar Truck Carrera | Henry Ford Health System 200 (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium768/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="promotocrossrd20thundervalley" tvg-name="Pro Motocross Rd. 20: Thunder Valley (21:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/rexqsg1574154823.png" group-title="Eventi Live",Pro Motocross Rd. 20: Thunder Valley (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium53/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="promotocrossrd20thundervalley" tvg-name="Pro Motocross Rd. 20: Thunder Valley (21:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/rexqsg1574154823.png" group-title="Eventi Live",Pro Motocross Rd. 20: Thunder Valley (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium769/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nhradragracingsupergripnhrathundervalleynationalsqualifying" tvg-name="NHRA Drag Racing Super Grip NHRA Thunder Valley Nationals, Qualifying (01:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/drag-racing-series-logo-png-transparent.png" group-title="Eventi Live",NHRA Drag Racing Super Grip NHRA Thunder Valley Nationals, Qualifying (01:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesdqssolutionsstaffing200" tvg-name="NASCAR Craftsman Truck Series DQS Solutions & Staffing 200 (03:30)" tvg-logo="https://www.mispeedway.com/wp-content/uploads/sites/1037/2024/08/31/24_MIS_DQS-Solutioins-200_4C-151x180.png" group-title="Eventi Live",NASCAR Craftsman Truck Series DQS Solutions & Staffing 200 (03:30)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium758/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Boxing" group-title="Eventi Live",--- Boxing ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="ibftitlefightsjoshkellyvsflaviusbiea" tvg-name="IBF Title Fights : Josh Kelly vs Flavius Biea (22:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Josh Kelly_vs_Flavius Biea.png" group-title="Eventi Live",IBF Title Fights : Josh Kelly vs Flavius Biea (22:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium355/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="ibftitlefightseuropeansupermiddleweighttitlecallumsimpsonvsivanzucco" tvg-name="IBF Title Fights European Super-Middleweight Title : Callum Simpson vs Ivan Zucco (20:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Callum Simpson_vs_Ivan Zucco.png" group-title="Eventi Live",IBF Title Fights European Super-Middleweight Title : Callum Simpson vs Ivan Zucco (20:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium37/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="toprankboxingkeyshawndavisvsedwindelossantos" tvg-name="Top Rank Boxing : Keyshawn Davis vs Edwin De Los Santos (05:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Keyshawn Davis_vs_Edwin De Los Santos.png" group-title="Eventi Live",Top Rank Boxing : Keyshawn Davis vs Edwin De Los Santos (05:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium76/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="toprankboxingkeyshawndavisvsedwindelossantos" tvg-name="Top Rank Boxing : Keyshawn Davis vs Edwin De Los Santos (05:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Keyshawn Davis_vs_Edwin De Los Santos.png" group-title="Eventi Live",Top Rank Boxing : Keyshawn Davis vs Edwin De Los Santos (05:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium44/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="MMA" group-title="Eventi Live",--- MMA ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="ufc316prelimsbrunosilvavsjoshuavan" tvg-name="UFC 316 Prelims : Bruno Silva vs Joshua Van (02:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Bruno Silva_vs_Joshua Van.png" group-title="Eventi Live",UFC 316 Prelims : Bruno Silva vs Joshua Van (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="ufc316prelimsbrunosilvavsjoshuavan" tvg-name="UFC 316 Prelims : Bruno Silva vs Joshua Van (02:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Bruno Silva_vs_Joshua Van.png" group-title="Eventi Live",UFC 316 Prelims : Bruno Silva vs Joshua Van (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium44/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="ufc316maincardmerabdvalishvilivsseanomalley" tvg-name="UFC 316 Main Card : Merab Dvalishvili vs Sean O'Malley (04:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Merab Dvalishvili_vs_Sean O'Malley.png" group-title="Eventi Live",UFC 316 Main Card : Merab Dvalishvili vs Sean O'Malley (04:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Golf" group-title="Eventi Live",--- Golf ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="pgatourrbccanadianopen" tvg-name="PGA Tour RBC Canadian Open (21:00)" tvg-logo="https://res.cloudinary.com/pgatour-prod/pgatour/sponsors/comcast-business-tour-2025-logo-dark.png" group-title="Eventi Live",PGA Tour RBC Canadian Open (21:00)
+#EXTINF:-1 tvg-id="dpworldtourklmopen" tvg-name="DP World Tour KLM Open (13:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-DP-World.vresize.350.350.medium.0.png" group-title="Eventi Live",DP World Tour KLM Open (13:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium70/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="pgatourrbccanadianopen" tvg-name="PGA Tour RBC Canadian Open (21:00)" tvg-logo="https://res.cloudinary.com/pgatour-prod/pgatour/sponsors/comcast-business-tour-2025-logo-dark.png" group-title="Eventi Live",PGA Tour RBC Canadian Open (21:00)
+#EXTINF:-1 tvg-id="dpworldtourklmopen" tvg-name="DP World Tour KLM Open (13:00)" tvg-logo="https://uploads.concordia.net/2022/09/08122539/DP_World_Logo_Colour_WhiteBG_Vertical_RGB-4-1400x1400.png" group-title="Eventi Live",DP World Tour KLM Open (13:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium318/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
+#EXTINF:-1 tvg-id="ladieseuropeantourtenerifewomensopen" tvg-name="Ladies European Tour Tenerife Women’s Open (14:00)" tvg-logo="https://www.isportconnect.com/wp-content/uploads/2024/04/LET-Logo.png" group-title="Eventi Live",Ladies European Tour Tenerife Women’s Open (14:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium449/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pgakornferrytourgolfbmwcharitysecondround" tvg-name="PGA Korn Ferry Tour Golf BMW Charity Second Round (18:00)" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/li4iby1740340260.png" group-title="Eventi Live",PGA Korn Ferry Tour Golf BMW Charity Second Round (18:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium318/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pgatourrbccanadianopen" tvg-name="PGA Tour RBC Canadian Open (19:00)" tvg-logo="http://logos-download.com/wp-content/uploads/2016/08/RBC_logo.png" group-title="Eventi Live",PGA Tour RBC Canadian Open (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium70/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pgatourrbccanadianopen" tvg-name="PGA Tour RBC Canadian Open (19:00)" tvg-logo="https://greeneventninjas.com/wp-content/uploads/2022/08/RBC-Canadian-Open-300x300.png" group-title="Eventi Live",PGA Tour RBC Canadian Open (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium318/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pgatourgolfrbccanadianopenthirdround" tvg-name="PGA Tour Golf RBC Canadian Open, Third Round (21:00)" tvg-logo="https://res.cloudinary.com/pgatour-prod/pgatour/sponsors/comcast-business-tour-2025-logo-dark.png" group-title="Eventi Live",PGA Tour Golf RBC Canadian Open, Third Round (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium767/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pgatourgolfrbccanadianopenthirdround" tvg-name="PGA Tour Golf RBC Canadian Open, Third Round (21:00)" tvg-logo="https://res.cloudinary.com/pgatour-prod/pgatour/sponsors/comcast-business-tour-2025-logo-dark.png" group-title="Eventi Live",PGA Tour Golf RBC Canadian Open, Third Round (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium52/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pgakornferrytourgolfbmwcharityproamthirdround" tvg-name="PGA Korn Ferry Tour Golf BMW Charity Pro-Am, Third Round (23:00)" tvg-logo="https://static.flashscore.com/res/image/data/lra02Q9j-MkSN2KCC.png" group-title="Eventi Live",PGA Korn Ferry Tour Golf BMW Charity Pro-Am, Third Round (23:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium318/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Bowling" group-title="Eventi Live",--- Bowling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="iaafdiamondleaguegoldengalapietromenneastadioolimpico" tvg-name="IAAF Diamond League Golden Gala Pietro Mennea - Stadio Olimpico (21:00)" tvg-logo="https://iconape.com/wp-content/files/ci/322388/png/322388.png" group-title="Eventi Live",IAAF Diamond League Golden Gala Pietro Mennea - Stadio Olimpico (21:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium359/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="pbabowling2025pbatourfinalsgroup1positioninground" tvg-name="PBA Bowling 2025 PBA Tour Finals Group 1 Positioning Round (23:00)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Logo_of_the_Professional_Bowlers_Association_(PBA).svg/220px-Logo_of_the_Professional_Bowlers_Association_(PBA).svg.png" group-title="Eventi Live",PBA Bowling 2025 PBA Tour Finals Group 1 Positioning Round (23:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium308/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="pbabowling2025pbatourfinalsgroup2positioningroundlive" tvg-name="PBA Bowling 2025 PBA Tour Finals Group 2 Positioning Round Live (01:00)" tvg-logo="https://bleedingcool.com/wp-content/uploads/2019/10/pba-pro-bowling-logo.png" group-title="Eventi Live",PBA Bowling 2025 PBA Tour Finals Group 2 Positioning Round Live (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium308/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Aussie rules" group-title="Eventi Live",--- Aussie rules ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="aflrichmondtigersvssydneyswans" tvg-name="AFL : Richmond Tigers vs Sydney Swans (05:20)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Richmond Tigers_vs_Sydney Swans.png" group-title="Eventi Live",AFL : Richmond Tigers vs Sydney Swans (05:20)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="aflgeelongcatsvsgoldcoastsuns" tvg-name="AFL : Geelong Cats vs Gold Coast Suns (08:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Geelong Cats_vs_Gold Coast Suns.png" group-title="Eventi Live",AFL : Geelong Cats vs Gold Coast Suns (08:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="aflgreaterwesternsydneyvsportadelaidepower" tvg-name="AFL : Greater Western Sydney vs Port Adelaide Power (11:35)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Greater Western Sydney_vs_Port Adelaide Power.png" group-title="Eventi Live",AFL : Greater Western Sydney vs Port Adelaide Power (11:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium758/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Baseball" group-title="Eventi Live",--- Baseball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="collegebaseballncaatournamentmiamivslouisville" tvg-name="College Baseball NCAA Tournament: Miami vs Louisville (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Miami_vs_Louisville.png" group-title="Eventi Live",College Baseball NCAA Tournament: Miami vs Louisville (21:00)
+#EXTINF:-1 tvg-id="athletesunlimitedsoftballleaguetalonsvsbandits" tvg-name="Athletes Unlimited Softball League : Talons vs Bandits (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Talons_vs_Bandits.png" group-title="Eventi Live",Athletes Unlimited Softball League : Talons vs Bandits (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium762/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentlouisvillevsmiami" tvg-name="College Baseball NCAA Tournament: Louisville vs Miami (17:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Louisville_vs_Miami.png" group-title="Eventi Live",College Baseball NCAA Tournament: Louisville vs Miami (17:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium44/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentnorthcarolinavsarizona" tvg-name="College Baseball NCAA Tournament: North Carolina vs. Arizona (18:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/North Carolina_vs_Arizona.png" group-title="Eventi Live",College Baseball NCAA Tournament: North Carolina vs. Arizona (18:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium45/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentmurraystatevsduke" tvg-name="College Baseball NCAA Tournament: Murray State vs Duke (19:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Murray State_vs_Duke.png" group-title="Eventi Live",College Baseball NCAA Tournament: Murray State vs Duke (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium316/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentwestvirginiavslsu" tvg-name="College Baseball NCAA Tournament: West Virginia vs LSU (20:00)" tvg-logo="https://www.pngkit.com/png/full/473-4731474_tattoo-png.png" group-title="Eventi Live",College Baseball NCAA Tournament: West Virginia vs LSU (20:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium44/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentauburnvscoastalcarolina" tvg-name="College Baseball NCAA Tournament: Auburn vs. Coastal Carolina (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Auburn_vs_Coastal Carolina.png" group-title="Eventi Live",College Baseball NCAA Tournament: Auburn vs. Coastal Carolina (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium45/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamenttennesseevsarkansas" tvg-name="College Baseball NCAA Tournament: Tennessee vs Arkansas (23:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Tennessee_vs_Arkansas.png" group-title="Eventi Live",College Baseball NCAA Tournament: Tennessee vs Arkansas (23:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium44/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamenttexassanantonioatucla" tvg-name="College Baseball NCAA Tournament: Texas-San Antonio at UCLA (01:00)" tvg-logo="https://logodix.com/logo/706088.png" group-title="Eventi Live",College Baseball NCAA Tournament: Texas-San Antonio at UCLA (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium316/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentoregonstatevsfloridastate" tvg-name="College Baseball NCAA Tournament: Oregon State vs. Florida State (03:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Oregon State_vs_Florida State.png" group-title="Eventi Live",College Baseball NCAA Tournament: Oregon State vs. Florida State (03:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium45/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="minorleaguebaseballrochesterredwingsvsworcesterredsox" tvg-name="Minor League Baseball : Rochester Red Wings vs Worcester Red Sox (22:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Rochester Red Wings_vs_Worcester Red Sox.png" group-title="Eventi Live",Minor League Baseball : Rochester Red Wings vs Worcester Red Sox (22:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium764/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="minorleaguebaseballchattanoogalookoutsvsknoxvillesmokies" tvg-name="Minor League Baseball : Chattanooga Lookouts vs Knoxville Smokies (01:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Chattanooga Lookouts_vs_Knoxville Smokies.png" group-title="Eventi Live",Minor League Baseball : Chattanooga Lookouts vs Knoxville Smokies (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium770/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="bananaballworldtourthepartyanimalsvssavannahbananas" tvg-name="Banana Ball World Tour : The Party Animals vs Savannah Bananas (01:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/The Party Animals_vs_Savannah Bananas.png" group-title="Eventi Live",Banana Ball World Tour : The Party Animals vs Savannah Bananas (01:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium45/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbstlouiscardinalsvslosangelesdodgers" tvg-name="MLB : St. Louis Cardinals vs Los Angeles Dodgers (20:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/St. Louis Cardinals_vs_Los Angeles Dodgers.png" group-title="Eventi Live",MLB : St. Louis Cardinals vs Los Angeles Dodgers (20:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbstlouiscardinalsvslosangelesdodgers" tvg-name="MLB : St. Louis Cardinals vs Los Angeles Dodgers (20:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/St. Louis Cardinals_vs_Los Angeles Dodgers.png" group-title="Eventi Live",MLB : St. Louis Cardinals vs Los Angeles Dodgers (20:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium764/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbpittsburghpiratesvsphiladelphiaphillies" tvg-name="MLB : Pittsburgh Pirates vs Philadelphia Phillies (22:05)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Pittsburgh Pirates_vs_Philadelphia Phillies.png" group-title="Eventi Live",MLB : Pittsburgh Pirates vs Philadelphia Phillies (22:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium777/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbwashingtonnationalsvstexasrangers" tvg-name="MLB : Washington Nationals vs Texas Rangers (22:05)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Washington Nationals_vs_Texas Rangers.png" group-title="Eventi Live",MLB : Washington Nationals vs Texas Rangers (22:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium829/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbsanfranciscogiantsvsatlantabraves" tvg-name="MLB : San Francisco Giants vs Atlanta Braves (22:05)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/San Francisco Giants_vs_Atlanta Braves.png" group-title="Eventi Live",MLB : San Francisco Giants vs Atlanta Braves (22:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium753/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbclevelandguardiansvshoustonastros" tvg-name="MLB : Cleveland Guardians vs Houston Astros (22:10)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Cleveland Guardians_vs_Houston Astros.png" group-title="Eventi Live",MLB : Cleveland Guardians vs Houston Astros (22:10)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvsbostonredsox" tvg-name="MLB : New York Yankees vs Boston Red Sox (01:35)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/New York Yankees_vs_Boston Red Sox.png" group-title="Eventi Live",MLB : New York Yankees vs Boston Red Sox (01:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvsbostonredsox" tvg-name="MLB : New York Yankees vs Boston Red Sox (01:35)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/New York Yankees_vs_Boston Red Sox.png" group-title="Eventi Live",MLB : New York Yankees vs Boston Red Sox (01:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium768/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvsbostonredsox" tvg-name="MLB : New York Yankees vs Boston Red Sox (01:35)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/New York Yankees_vs_Boston Red Sox.png" group-title="Eventi Live",MLB : New York Yankees vs Boston Red Sox (01:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium54/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlblosangelesangelsvsseattlemariners" tvg-name="MLB : Los Angeles Angels vs Seattle Mariners (03:38)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Los Angeles Angels_vs_Seattle Mariners.png" group-title="Eventi Live",MLB : Los Angeles Angels vs Seattle Mariners (03:38)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium920/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlbcoloradorockiesvsnewyorkmets" tvg-name="MLB : Colorado Rockies vs New York Mets (03:40)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Colorado Rockies_vs_New York Mets.png" group-title="Eventi Live",MLB : Colorado Rockies vs New York Mets (03:40)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium759/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlboaklandathleticsvsbaltimoreorioles" tvg-name="MLB : Oakland Athletics vs Baltimore Orioles (04:05)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Oakland Athletics_vs_Baltimore Orioles.png" group-title="Eventi Live",MLB : Oakland Athletics vs Baltimore Orioles (04:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium755/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mlboaklandathleticsvsbaltimoreorioles" tvg-name="MLB : Oakland Athletics vs Baltimore Orioles (04:05)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Oakland Athletics_vs_Baltimore Orioles.png" group-title="Eventi Live",MLB : Oakland Athletics vs Baltimore Orioles (04:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium829/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="legabasketserieampresiavstrapani" tvg-name="Lega Basket Serie A : Mpresia vs Trapani (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Mpresia_vs_Trapani.png" group-title="Eventi Live",Lega Basket Serie A : Mpresia vs Trapani (20:45)
+#EXTINF:-1 tvg-id="africaleaguecapetroleosdeluandavsarmeepatriotiquerwandaise" tvg-name="Africa League : CA Petroleos de Luanda vs. Armee Patriotique Rwandaise (16:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/CA Petroleos de Luanda_vs_Armee Patriotique Rwandaise.png" group-title="Eventi Live",Africa League : CA Petroleos de Luanda vs. Armee Patriotique Rwandaise (16:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium404/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="legabasketserieaolimpiamilanovsvirtusbologna" tvg-name="Lega Basket Serie A : Olimpia Milano vs Virtus Bologna (20:45)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Olimpia Milano_vs_Virtus Bologna.png" group-title="Eventi Live",Lega Basket Serie A : Olimpia Milano vs Virtus Bologna (20:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wnbagoldenstatevalkyrieswvslasvegasacesw" tvg-name="WNBA : Golden State Valkyries W vs Las Vegas Aces W (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Golden State Valkyries W_vs_Las Vegas Aces W.png" group-title="Eventi Live",WNBA : Golden State Valkyries W vs Las Vegas Aces W (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wnbagoldenstatevalkyrieswvslasvegasacesw" tvg-name="WNBA : Golden State Valkyries W vs Las Vegas Aces W (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Golden State Valkyries W_vs_Las Vegas Aces W.png" group-title="Eventi Live",WNBA : Golden State Valkyries W vs Las Vegas Aces W (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium51/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wnbagoldenstatevalkyrieswvslasvegasacesw" tvg-name="WNBA : Golden State Valkyries W vs Las Vegas Aces W (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Golden State Valkyries W_vs_Las Vegas Aces W.png" group-title="Eventi Live",WNBA : Golden State Valkyries W vs Las Vegas Aces W (21:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium766/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wnbaindianafevervschicagosky" tvg-name="WNBA : Indiana Fever vs Chicago Sky (02:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Indiana Fever_vs_Chicago Sky.png" group-title="Eventi Live",WNBA : Indiana Fever vs Chicago Sky (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium52/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="wnbaindianafevervschicagosky" tvg-name="WNBA : Indiana Fever vs Chicago Sky (02:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Indiana Fever_vs_Chicago Sky.png" group-title="Eventi Live",WNBA : Indiana Fever vs Chicago Sky (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium767/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Sailing / Boating" group-title="Eventi Live",--- Sailing / Boating ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="sailgpnewyorkevent6day1" tvg-name="SailGP | New York Event 6 | Day 1 (21:30)" tvg-logo="https://images.ctfassets.net/2lppn7hwgzta/4DJpFfY20UtxhIYcs19TR9/4602302eac3dfa7a202a07fd350c98d6/Season3_Maps_SamFran_Dark.png" group-title="Eventi Live",SailGP | New York Event 6 | Day 1 (21:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="mensboulderfinalworldcupprague" tvg-name="Men's Boulder | Final World Cup | Prague (18:30)" tvg-logo="https://i.pinimg.com/originals/e5/3d/86/e53d8678d08e388434ca91b57575a466.png" group-title="Eventi Live",Men's Boulder | Final World Cup | Prague (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mensboulderfinalworldcupprague" tvg-name="Men's Boulder | Final World Cup | Prague (18:30)" tvg-logo="https://i.pinimg.com/originals/e5/3d/86/e53d8678d08e388434ca91b57575a466.png" group-title="Eventi Live",Men's Boulder | Final World Cup | Prague (18:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="tourofbritaincyclingwomensstage3" tvg-name="Tour of Britain Cycling - Women's Stage 3 (12:00)" tvg-logo="https://static.flashscore.com/res/image/data/Of0gFlW1-dKECyGsi.png" group-title="Eventi Live",Tour of Britain Cycling - Women's Stage 3 (12:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium212/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="voltaciclistaacatalunyawomensstage2" tvg-name="Volta Ciclista a Catalunya - Women's Stage 2 (12:30)" tvg-logo="https://www.circuitcat.com/wp-content/uploads/2020/02/Volta_Catalunya_2020-Mapa_General.png" group-title="Eventi Live",Volta Ciclista a Catalunya - Women's Stage 2 (12:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium215/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="tourofsloveniastage4malemariborgolte1752km" tvg-name="Tour of Slovenia | Stage 4 Male | Maribor > Golte (175.2 km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Slovenia | Stage 4 Male | Maribor > Golte (175.2 km) (13:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium214/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="tourofsloveniastage4malemariborgolte1752km" tvg-name="Tour of Slovenia | Stage 4 Male | Maribor > Golte (175.2 km) (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/feOGmXWI-2Ha0aJXc.png" group-title="Eventi Live",Tour of Slovenia | Stage 4 Male | Maribor > Golte (175.2 km) (13:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="ucidownhillworldcupwomeneliteleogang" tvg-name="UCI Downhill World Cup | Women Elite | Leogang (13:30)" tvg-logo="https://cycleholix.de/wp-content/uploads/2018/08/bres_dhi_mj_standings-325x325.png" group-title="Eventi Live",UCI Downhill World Cup | Women Elite | Leogang (13:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="mountainbikingworldcupcompetitioninleogangmensdescent" tvg-name="Mountain biking: World Cup competition in Leogang men's descent (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230902/original/pngtree-mountain-bike-circle-silhouette-logo-vector-png-image_10804655.png" group-title="Eventi Live",Mountain biking: World Cup competition in Leogang men's descent (15:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Darts" group-title="Eventi Live",--- Darts ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="nordicdartsmasterslukehumphriesvsmadarsrazma" tvg-name="Nordic Darts Masters : Luke Humphries vs Madars Razma (20:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Luke Humphries_vs_Madars Razma.png" group-title="Eventi Live",Nordic Darts Masters : Luke Humphries vs Madars Razma (20:30)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium353/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
-#EXTINF:-1 tvg-id="nordicdartsmastersnathanaspinallvsbenjamindruereus" tvg-name="Nordic Darts Masters : Nathan Aspinall vs Benjamin Drue-Reus (21:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Nathan Aspinall_vs_Benjamin Drue-Reus.png" group-title="Eventi Live",Nordic Darts Masters : Nathan Aspinall vs Benjamin Drue-Reus (21:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium353/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
-#EXTINF:-1 tvg-id="nordicdartsmasterslukelittlervstingstromv" tvg-name="Nordic Darts Masters : Luke Littler vs Tingstrom V. (21:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Luke Littler_vs_Tingstrom V..png" group-title="Eventi Live",Nordic Darts Masters : Luke Littler vs Tingstrom V. (21:30)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium353/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
-#EXTINF:-1 tvg-id="nordicdartsmastersstephenbuntingvslukasiako" tvg-name="Nordic Darts Masters : Stephen Bunting vs Lukasiak O. (22:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Stephen Bunting_vs_Lukasiak O..png" group-title="Eventi Live",Nordic Darts Masters : Stephen Bunting vs Lukasiak O. (22:00)
-http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium353/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
-#EXTINF:-1 tvg-id="nordicdartsmastersjonnyclaytonvslabanauskasdarius" tvg-name="Nordic Darts Masters : Jonny Clayton vs Labanauskas Darius (22:30)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Jonny Clayton_vs_Labanauskas Darius.png" group-title="Eventi Live",Nordic Darts Masters : Jonny Clayton vs Labanauskas Darius (22:30)
+#EXTINF:-1 tvg-id="pdcdartsschedulemrvegasnordicdartsmastersforumcopenhagen" tvg-name="PDC Darts Schedule Mr Vegas Nordic Darts Masters - Forum Copenhagen (19:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/isf07m1555602216.png/preview" group-title="Eventi Live",PDC Darts Schedule Mr Vegas Nordic Darts Masters - Forum Copenhagen (19:00)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium353/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Horse Racing" group-title="Eventi Live",--- Horse Racing ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="americasdayattheracesdkhorseacorn" tvg-name="America's Day At the Races - DK Horse Acorn (23:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/2/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png?v=1957857419711791560" group-title="Eventi Live",America's Day At the Races - DK Horse Acorn (23:00)
+#EXTINF:-1 tvg-id="liveracingfromepsommusselburghpunchestownandnavan" tvg-name="Live racing from Epsom, Musselburgh, Punchestown and Navan (13:30)" tvg-logo="https://punchestown.com/app/uploads/2023/08/Membership-Footer-Logo.png" group-title="Eventi Live",Live racing from Epsom, Musselburgh, Punchestown and Navan (13:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium555/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="liveracingfromepsom" tvg-name="Live racing from Epsom (13:45)" tvg-logo="http://vx-3.com/cdn/shop/collections/2021-2022-badge.png?v=1641559928" group-title="Eventi Live",Live racing from Epsom (13:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/dokko1/premium350/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Live racing from around the UK (14:45)" tvg-logo="https://www.irishracing.com/images/icon.png" group-title="Eventi Live",Live racing from around the UK (14:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium554/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="America's Day At the Races (16:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",America's Day At the Races (16:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="americasdayatthebelmont" tvg-name="America's Day At the Belmont (20:30)" tvg-logo="https://cdn.usteamcolors.com/images/ncaa/division-1/belmont-bruins-logo.png" group-title="Eventi Live",America's Day At the Belmont (20:30)
 http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium54/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="globalchampionstourlonginesglobalchampionstouractionfromthegrandprixofcannes" tvg-name="Global Champions Tour - Longines Global Champions Tour action from the Grand Prix of Cannes. (20:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/longines-logo.png" group-title="Eventi Live",Global Champions Tour - Longines Global Champions Tour action from the Grand Prix of Cannes. (20:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="americasdayatthebelmont" tvg-name="America's Day At the Belmont (22:00)" tvg-logo="https://cdn.usteamcolors.com/images/ncaa/division-1/belmont-bruins-logo.png" group-title="Eventi Live",America's Day At the Belmont (22:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Lacrosse" group-title="Eventi Live",--- Lacrosse ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="premierlacrosseleagueutaharchersvsbostoncannons" tvg-name="Premier Lacrosse League : Utah Archers vs. Boston Cannons (19:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Utah Archers_vs_Boston Cannons.png" group-title="Eventi Live",Premier Lacrosse League : Utah Archers vs. Boston Cannons (19:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium51/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Rugby League" group-title="Eventi Live",--- Rugby League ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="nationalrugbyleaguecronullasharksvsnewzealandwarriors" tvg-name="National Rugby League : Cronulla Sharks vs New Zealand Warriors (09:30)" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a0/797e3a7b-969f-4ab2-8512-958a89e6605f.png/revision/latest/scale-to-width-down/2000?cb=20170427072434" group-title="Eventi Live",National Rugby League : Cronulla Sharks vs New Zealand Warriors (09:30)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium449/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="nationalrugbyleaguebrisbanebroncosvsgoldcoasttitans" tvg-name="National Rugby League : Brisbane Broncos vs Gold Coast Titans (11:35)" group-title="Eventi Live",National Rugby League : Brisbane Broncos vs Gold Coast Titans (11:35)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium449/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="challengecuphullkrvswarringtonwolves" tvg-name="Challenge Cup : Hull KR vs Warrington Wolves (16:00)" tvg-logo="https://badge.hullkr.co.uk/app/uploads/2021/09/badge_crest_and_bird_redraw.png" group-title="Eventi Live",Challenge Cup : Hull KR vs Warrington Wolves (16:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium356/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="avivapremiershiprugbyleicestertigersvssalesharks" tvg-name="Aviva Premiership Rugby : Leicester Tigers vs Sale Sharks (15:45)" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/sale_sharks.png" group-title="Eventi Live",Aviva Premiership Rugby : Leicester Tigers vs Sale Sharks (15:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipleinstervsglasgow" tvg-name="United Rugby Championship : Leinster vs Glasgow (15:45)" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/11/university-of-glasgow-logo.png" group-title="Eventi Live",United Rugby Championship : Leinster vs Glasgow (15:45)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium451/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipbullsvssharks" tvg-name="United Rugby Championship : Bulls vs Sharks (18:15)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Bulls_vs_Sharks.png" group-title="Eventi Live",United Rugby Championship : Bulls vs Sharks (18:15)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium451/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="top14avironbayonnaisvstoulon" tvg-name="Top 14 : Aviron Bayonnais vs Toulon (21:05)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Aviron Bayonnais_vs_Toulon.png" group-title="Eventi Live",Top 14 : Aviron Bayonnais vs Toulon (21:05)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/wind/premium550/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="majorleaguerugbyutahwarriorsvslosangeles" tvg-name="Major League Rugby : Utah Warriors vs Los Angeles (03:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/Utah Warriors_vs_Los Angeles.png" group-title="Eventi Live",Major League Rugby : Utah Warriors vs Los Angeles (03:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium107/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="majorleaguerugbysandiegolegionvsoldglorydc" tvg-name="Major League Rugby : San Diego Legion vs Old Glory DC (04:00)" tvg-logo="https://raw.githubusercontent.com/Keryfia/kerywowo/main/logos/San Diego Legion_vs_Old Glory DC.png" group-title="Eventi Live",Major League Rugby : San Diego Legion vs Old Glory DC (04:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/ddy6/premium108/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="avpbeachvolleyballleagueweek2sandiego" tvg-name="AVP Beach Volleyball : League Week 2 - San Diego (02:00)" tvg-logo="https://avp.com/wp-content/uploads/VBUSA_Shield_with_site-01-1.png" group-title="Eventi Live",AVP Beach Volleyball : League Week 2 - San Diego (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/zeko/premium300/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
+
+#EXTINF:-1 tvg-id="avpbeachvolleyballleagueweek2sandiego" tvg-name="AVP Beach Volleyball : League Week 2 - San Diego (02:00)" tvg-logo="https://avp.com/wp-content/uploads/VBUSA_Shield_with_site-01-1.png" group-title="Eventi Live",AVP Beach Volleyball : League Week 2 - San Diego (02:00)
+http://192.168.0.241:8888/proxy/m3u?url=https://new.newkso.ru/nfs/premium280/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
